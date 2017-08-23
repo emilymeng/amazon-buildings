@@ -5,13 +5,15 @@
       "path": "lamp-coffee"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2017/business/amazon-footprint"
     }
   },
   "title": "",
   "description": "",
   "url": "",
+  "production": true,
+  "embedded": true,
   "slug": "",
   "tags": []
 }

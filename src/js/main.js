@@ -35,8 +35,8 @@ var getColor = function(d) {
 
       // condition ? if-true : if-false;
      return value == "1" ? '#e6550d' :
-     		value == "2" ? '#fdae6b' :
-     		value == "3" ? '#ffeda0' :
+     		value == "2" ? '#ffeda0' :
+     		value == "3" ? '#fdae6b' :
             // value >= 10.00 ? '#addd8e' :
             // value >= 0 ? '#f7fcb9' :
              
